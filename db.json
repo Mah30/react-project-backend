@@ -1,18 +1,19 @@
 {
-	"users": [
+	"courses": [
 		{
 			"id": 1,
-			"firstname": "Josh",
-			"dog": "Ragnar",
-			"hobbies": ["Surf", "Being bad at videogames"]
+			"name": "Painting with watercolor",
+			"price": "60",
+			"description": ["Learn how to paint eggs in watercolor in a simple and fun way."]
 		},
 		{
 			"id": 2,
-			"firstname": "Eric",
-			"cat": false,
-			"hobbies": ["Lord of the Rings", "DnD"]
+			"name": "Handmade bookbinding",
+			"price": false,
+			"description": ["Beautiful notebooks made entirely by hand"]
 		}
 	],
+	
 	"playSessions": [
 		{
 			"id": 1,
