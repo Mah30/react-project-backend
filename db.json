@@ -2,18 +2,110 @@
 	"courses": [
 		{
 			"id": 1,
-			"name": "Painting with watercolor",
-			"price": "60",
-			"description": ["Learn how to paint eggs in watercolor in a simple and fun way."]
+			"title": "Painting with watercolor",
+			"description": ["Learn how to paint eggs in watercolor in a simple and fun way."],
+			"students": "260,942",
+			"rating": "99",
+    		"price": "20"
 		},
 		{
 			"id": 2,
-			"name": "Handmade bookbinding",
-			"price": false,
-			"description": ["Beautiful notebooks made entirely by hand"]
+			"title": "Handmade bookbinding",
+			"description": ["Beautiful notebooks made entirely by hand"],
+			"students": "942,260",
+			"rating": "85",
+    		"price": "25"
+		},
+		{
+			"id": 3,
+			"title": "Handmade bookbinding",
+			"description": ["Beautiful notebooks made entirely by hand"],
+			"students": "942,260",
+			"rating": "85",
+    		"price": "25"
+		},
+		{
+			"id": 4,
+			"title": "costura",
+			"description": ["Beautiful notebooks made entirely by hand"],
+			"students": "942,260",
+			"rating": "85",
+    		"price": "25"
+		},
+		{
+			"id": 5,
+			"title": "molduraQuadros",
+			"description": ["Beautiful notebooks made entirely by hand"],
+			"students": "942,260",
+			"rating": "85",
+    		"price": "25"
+		},
+		{
+			"id": 6,
+			"title": "colagem",
+			"description": ["Beautiful notebooks made entirely by hand"],
+			"students": "942,260",
+			"rating": "85",
+    		"price": "25"
+		},
+		{
+			"id": 7,
+			"title": "flores",
+			"description": ["Beautiful notebooks made entirely by hand"],
+			"students": "942,260",
+			"rating": "85",
+    		"price": "25"
+		},
+		{
+			"id": 8,
+			"title": "flores",
+			"description": ["Beautiful notebooks made entirely by hand"],
+			"students": "942,260",
+			"rating": "85",
+    		"price": "25"
+		},
+		{
+			"id": 9,
+			"title": "flores",
+			"description": ["Beautiful notebooks made entirely by hand"],
+			"students": "942,260",
+			"rating": "85",
+    		"price": "25"
+		},
+		{
+			"id": 10,
+			"title": "flores",
+			"description": ["Beautiful notebooks made entirely by hand"],
+			"students": "942,260",
+			"rating": "85",
+    		"price": "25"
+		},
+		{
+			"id": 11,
+			"title": "flores",
+			"description": ["Beautiful notebooks made entirely by hand"],
+			"students": "942,260",
+			"rating": "85",
+    		"price": "25"
+		},
+		{
+			"id": 12,
+			"title": "flores",
+			"description": ["Beautiful notebooks made entirely by hand"],
+			"students": "942,260",
+			"rating": "85",
+    		"price": "25"
+		},
+		{
+			"id": 13,
+			"title": "flores",
+			"description": ["Beautiful notebooks made entirely by hand"],
+			"students": "942,260",
+			"rating": "85",
+    		"price": "25"
 		}
 	],
-	
+
 	"playSessions": [
 		{
 			"id": 1,
