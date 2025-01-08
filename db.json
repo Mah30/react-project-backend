@@ -1,145 +1,364 @@
 {
-	"courses": [
-		{
-			"id": 1,
-			"title": "Painting with watercolor",
-			"description": ["Learn how to paint eggs in watercolor in a simple and fun way."],
-			"students": "260,942",
-			"rating": "4.5",
-    		"price": "20",
-			"image": "http://localhost:4000/images/pinturaOvo.jpg"
-		},
-		{
-			"id": 2,
-			"title": "Handmade bookbinding",
-			"description": ["Beautiful notebooks made entirely by hand"],
-			"students": "942,260",
-			"rating": "4.8",
-    		"price": "25",
-			"image": "http://localhost:4000/images/encadernacao.jpg"
-		},
-		{
-			"id": 3,
-			"title": "Learning sculpture with Bisqui",
-			"description": ["Xxxxxxxxxxxxxx"],
-			"students": "942,260",
-			"rating": "85",
-    		"price": "25",
-			"image": "http://localhost:4000/images/bisqui.jpg"
-		},
-		{
-			"id": 4,
-			"title": "costura",
-			"description": ["Beautiful notebooks made entirely by hand"],
-			"students": "942,260",
-			"rating": "85",
-    		"price": "25",
-			"image": "http://localhost:4000/images/bonecadepano.jpg"
-		},
-		{
-			"id": 5,
-			"title": "molduraQuadros",
-			"description": ["Beautiful notebooks made entirely by hand"],
-			"students": "942,260",
-			"rating": "85",
-    		"price": "25",
-			"image": "http://localhost:4000/images/colagem.jpg"
-		},
-		{
-			"id": 6,
-			"title": "colagem",
-			"description": ["Beautiful notebooks made entirely by hand"],
-			"students": "942,260",
-			"rating": "85",
-    		"price": "25",
-			"image": "http://localhost:4000/images/costura.jpg"
-		},
-		{
-			"id": 7,
-			"title": "flores",
-			"description": ["Beautiful notebooks made entirely by hand"],
-			"students": "942,260",
-			"rating": "85",
-    		"price": "25",
-			"image": "http://localhost:4000/images/flores.jpg"
-		},
-		{
-			"id": 8,
-			"title": "flores",
-			"description": ["Beautiful notebooks made entirely by hand"],
-			"students": "942,260",
-			"rating": "85",
-    		"price": "25",
-			"image": "http://localhost:4000/images/macrame.jpg"
-		},
-		{
-			"id": 9,
-			"title": "flores",
-			"description": ["Beautiful notebooks made entirely by hand"],
-			"students": "942,260",
-			"rating": "85",
-    		"price": "25",
-			"image": "http://localhost:4000/images/molduraQuadros.jpg"
-		},
-		{
-			"id": 10,
-			"title": "flores",
-			"description": ["Beautiful notebooks made entirely by hand"],
-			"students": "942,260",
-			"rating": "85",
-    		"price": "25",
-			"image": "http://localhost:4000/images/natal.jpg"
-		},
-		{
-			"id": 11,
-			"title": "flores",
-			"description": ["Beautiful notebooks made entirely by hand"],
-			"students": "942,260",
-			"rating": "85",
-    		"price": "25",
-			"image": "http://localhost:4000/images/patchwork.jpg"
-		},
-		{
-			"id": 12,
-			"title": "flores",
-			"description": ["Beautiful notebooks made entirely by hand"],
-			"students": "942,260",
-			"rating": "85",
-    		"price": "25",
-			"image": "http://localhost:4000/images/rosadosventos.jpg"
-		},
-		{
-			"id": 13,
-			"title": "flores",
-			"description": ["Beautiful notebooks made entirely by hand"],
-			"students": "942,260",
-			"rating": "85",
-    		"price": "25",
-			"image": "http://localhost:4000/images/pinturaOvo.jpg"
-		}
-	],
-
-	"playSessions": [
-		{
-			"id": 1,
-			"userId": 1,
-			"game": "LoL",
-			"playTime": 0,
-			"description": "I need to try out this one so that I can lose my life and my soul"
-		},
-		{
-			"id": 2,
-			"userId": 1,
-			"game": "OW",
-			"playTime": 100,
-			"description": "Finally I had a win in the end"
-		},
-		{
-			"id": 3,
-			"userId": 2,
-			"game": "DnD",
-			"playTime": 600,
-			"description": "I finished my turn in Civ"
-		}
-	]
+  "courses": [
+    {
+      "id": 1,
+      "title": "Painting with watercolor",
+      "description": [
+        "Learn how to paint eggs in watercolor in a simple and fun way."
+      ],
+      "students": "260,942",
+      "rating": "4.5",
+      "price": "20",
+      "image": "http://localhost:4000/images/pinturaOvo.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Handmade bookbinding",
+      "description": [
+        "Beautiful notebooks made entirely by hand"
+      ],
+      "students": "942,260",
+      "rating": "4.8",
+      "price": "25",
+      "image": "http://localhost:4000/images/encadernacao.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Learning sculpture with Bisqui",
+      "description": [
+        "Xxxxxxxxxxxxxx"
+      ],
+      "students": "942,260",
+      "rating": "85",
+      "price": "25",
+      "image": "http://localhost:4000/images/bisqui.jpg"
+    },
+    {
+      "id": 4,
+      "title": "costura",
+      "description": [
+        "Beautiful notebooks made entirely by hand"
+      ],
+      "students": "942,260",
+      "rating": "85",
+      "price": "25",
+      "image": "http://localhost:4000/images/bonecadepano.jpg"
+    },
+    {
+      "id": 5,
+      "title": "molduraQuadros",
+      "description": [
+        "Beautiful notebooks made entirely by hand"
+      ],
+      "students": "942,260",
+      "rating": "85",
+      "price": "25",
+      "image": "http://localhost:4000/images/colagem.jpg"
+    },
+    {
+      "id": 6,
+      "title": "colagem",
+      "description": [
+        "Beautiful notebooks made entirely by hand"
+      ],
+      "students": "942,260",
+      "rating": "85",
+      "price": "25",
+      "image": "http://localhost:4000/images/costura.jpg"
+    },
+    {
+      "id": 7,
+      "title": "flores",
+      "description": [
+        "Beautiful notebooks made entirely by hand"
+      ],
+      "students": "942,260",
+      "rating": "85",
+      "price": "25",
+      "image": "http://localhost:4000/images/flores.jpg"
+    },
+    {
+      "id": 8,
+      "title": "flores",
+      "description": [
+        "Beautiful notebooks made entirely by hand"
+      ],
+      "students": "942,260",
+      "rating": "85",
+      "price": "25",
+      "image": "http://localhost:4000/images/macrame.jpg"
+    },
+    {
+      "id": 9,
+      "title": "flores",
+      "description": [
+        "Beautiful notebooks made entirely by hand"
+      ],
+      "students": "942,260",
+      "rating": "85",
+      "price": "25",
+      "image": "http://localhost:4000/images/molduraQuadros.jpg"
+    },
+    {
+      "id": 10,
+      "title": "flores",
+      "description": [
+        "Beautiful notebooks made entirely by hand"
+      ],
+      "students": "942,260",
+      "rating": "85",
+      "price": "25",
+      "image": "http://localhost:4000/images/natal.jpg"
+    },
+    {
+      "id": 11,
+      "title": "flores",
+      "description": [
+        "Beautiful notebooks made entirely by hand"
+      ],
+      "students": "942,260",
+      "rating": "85",
+      "price": "25",
+      "image": "http://localhost:4000/images/patchwork.jpg"
+    },
+    {
+      "id": 12,
+      "title": "flores",
+      "description": [
+        "Beautiful notebooks made entirely by hand"
+      ],
+      "students": "942,260",
+      "rating": "85",
+      "price": "25",
+      "image": "http://localhost:4000/images/rosadosventos.jpg"
+    },
+    {
+      "id": 13,
+      "title": "flores",
+      "description": [
+        "Beautiful notebooks made entirely by hand"
+      ],
+      "students": "942,260",
+      "rating": "85",
+      "price": "25",
+      "image": "http://localhost:4000/images/pinturaOvo.jpg"
+    }
+  ],
+  "register": [
+    {
+      "id": 1,
+      "userId": 1,
+      "game": "LoL",
+      "playTime": 0,
+      "description": "I need to try out this one so that I can lose my life and my soul"
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "game": "OW",
+      "playTime": 100,
+      "description": "Finally I had a win in the end"
+    },
+    {
+      "id": 3,
+      "userId": 2,
+      "game": "DnD",
+      "playTime": 600,
+      "description": "I finished my turn in Civ"
+    },
+    {
+      "email": "ffffff@hotmail.com",
+      "password": "ffffff",
+      "id": 4
+    },
+    {
+      "email": "ffffff@hotmail.com",
+      "password": "ffffff",
+      "id": 5
+    },
+    {
+      "email": "alinemariah@hotmail.com",
+      "password": "hhhhh",
+      "id": 6
+    },
+    {
+      "email": "alinemariah@hotmail.com",
+      "password": "dddddd",
+      "id": 7
+    },
+    {
+      "email": "alinemariah@hotmail.com",
+      "password": "dddddd",
+      "id": 8
+    },
+    {
+      "email": "alinemariah@hotmail.com",
+      "password": "dddddd",
+      "id": 9
+    },
+    {
+      "email": "alinemariah@hotmail.com",
+      "password": "dddddd",
+      "id": 10
+    },
+    {
+      "email": "ali@gmail.com",
+      "password": "dddddd",
+      "id": 11
+    },
+    {
+      "email": "ali@gmail.com",
+      "password": "dddddd",
+      "id": 12
+    },
+    {
+      "email": "ali@gmail.com",
+      "password": "dddddd",
+      "id": 13
+    },
+    {
+      "email": "ali@gmail.com",
+      "password": "dddddd",
+      "id": 14
+    },
+    {
+      "email": "ali@gmail.com",
+      "password": "dddddd",
+      "id": 15
+    },
+    {
+      "email": "ali@gmail.com",
+      "password": "dddddd",
+      "id": 16
+    },
+    {
+      "email": "ali@gmail.com",
+      "password": "dddddd",
+      "id": 17
+    },
+    {
+      "email": "ali@gmail.com",
+      "password": "dddddd",
+      "id": 18
+    },
+    {
+      "email": "alinemariah@hotmail.com",
+      "password": "ooooooooo",
+      "id": 19
+    },
+    {
+      "email": "ggggg@hotmail.com",
+      "password": "ggggggg",
+      "id": 20
+    },
+    {
+      "email": "ggggg@hotmail.com",
+      "password": "ggggggg",
+      "id": 21
+    },
+    {
+      "email": "ggggg@hotmail.com",
+      "password": "ggggggg",
+      "id": 22
+    },
+    {
+      "email": "ggggg@hotmail.com",
+      "password": "ggggggg",
+      "id": 23
+    },
+    {
+      "email": "ggggg@hotmail.com",
+      "password": "ggggggg",
+      "id": 24
+    },
+    {
+      "email": "ggggg@hotmail.com",
+      "password": "ggggggg",
+      "id": 25
+    },
+    {
+      "email": "and@hotmail.com",
+      "password": "fffffff",
+      "id": 26
+    },
+    {
+      "email": "and@hotmail.com",
+      "password": "fffffff",
+      "id": 27
+    },
+    {
+      "email": "and@hotmail.com",
+      "password": "fffffff",
+      "id": 28
+    },
+    {
+      "firstname": "Ana",
+      "lastname": "Maria",
+      "email": "adin@hotmail.com",
+      "password": "dddddddd",
+      "id": 29
+    },
+    {
+      "firstname": "Ana",
+      "lastname": "Maria",
+      "email": "adina@hotmail.com",
+      "password": "dddddddd",
+      "id": 30
+    },
+    {
+      "firstname": "Anabela",
+      "lastname": "Da Conceicao",
+      "email": "aaa@hotmail.com",
+      "password": "ddddddddd",
+      "id": 31
+    },
+    {
+      "firstname": "dddddd",
+      "lastname": "aaaa",
+      "email": "ddd@hotmail.com",
+      "password": "ddddddddd",
+      "id": 32
+    },
+    {
+      "firstname": "ana",
+      "lastname": "Braga",
+      "email": "ggggg@hotmail.com",
+      "password": "gggggggggg",
+      "id": 33
+    },
+    {
+      "firstname": "cora",
+      "lastname": "colaro",
+      "email": "adina@hotmail.com",
+      "password": "gggggggg",
+      "id": 34
+    },
+    {
+      "firstname": "ffffff",
+      "lastname": "fffffff",
+      "email": "adina@hotmail.com",
+      "password": "rrrrrrrr",
+      "id": 35
+    },
+    {
+      "firstname": "carla",
+      "lastname": "ffff",
+      "email": "adinaa@hotmail.com",
+      "password": "ggggggggg",
+      "id": 36
+    },
+    {
+      "firstname": "ddddd",
+      "lastname": "dd",
+      "email": "rg@gmail.com",
+      "password": "ggggggggg",
+      "id": 37
+    }
+  ],
+  "login":[
+	{
+	 "id":1	
+	}
+  ]
 }
+
