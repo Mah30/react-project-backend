@@ -109,39 +109,6 @@
       "rating": "85",
       "price": "25",
       "image": "http://localhost:4000/images/natal.jpg"
-    },
-    {
-      "id": 11,
-      "title": "flores",
-      "description": [
-        "Beautiful notebooks made entirely by hand"
-      ],
-      "students": "942,260",
-      "rating": "85",
-      "price": "25",
-      "image": "http://localhost:4000/images/patchwork.jpg"
-    },
-    {
-      "id": 12,
-      "title": "flores",
-      "description": [
-        "Beautiful notebooks made entirely by hand"
-      ],
-      "students": "942,260",
-      "rating": "85",
-      "price": "25",
-      "image": "http://localhost:4000/images/rosadosventos.jpg"
-    },
-    {
-      "id": 13,
-      "title": "flores",
-      "description": [
-        "Beautiful notebooks made entirely by hand"
-      ],
-      "students": "942,260",
-      "rating": "85",
-      "price": "25",
-      "image": "http://localhost:4000/images/pinturaOvo.jpg"
     }
   ],
   "register": [
@@ -353,9 +320,15 @@
       "email": "rg@gmail.com",
       "password": "ggggggggg",
       "id": 37
+    },
+    {
+      "firstname": "Aline",
+      "lastname": "Mariah",
+      "email": "mariah@hotmail.com",
+      "password": "123456",
+      "id": 38
     }
   ],
-  
   "login": [
     {
       "id": 1
