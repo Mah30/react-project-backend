@@ -4,7 +4,7 @@
       "id": 1,
       "title": "Painting with watercolor",
       "description": [
-        "Learn how to paint eggs in watercolor in a simple and fun way."
+        "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Et doloremque sapiente suscipit. Aut, voluptatem. Eum modi dignissimos rerum."
       ],
       "students": "260,942",
       "rating": "4.5",
@@ -15,29 +15,29 @@
       "id": 2,
       "title": "Handmade bookbinding",
       "description": [
-        "Beautiful notebooks made entirely by hand"
+        "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Et doloremque sapiente suscipit. Aut, voluptatem. Eum modi dignissimos rerum."
       ],
       "students": "942,260",
       "rating": "4.8",
-      "price": "25",
+      "price": "15",
       "image": "http://localhost:4000/images/encadernacao.jpg"
     },
     {
       "id": 3,
-      "title": "Learning sculpture with Bisqui",
+      "title": "Lorem ipsum color",
       "description": [
-        "Xxxxxxxxxxxxxx"
+        "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Et doloremque sapiente suscipit. Aut, voluptatem. Eum modi dignissimos rerum."
       ],
       "students": "942,260",
       "rating": "85",
-      "price": "25",
+      "price": "35",
       "image": "http://localhost:4000/images/bisqui.jpg"
     },
     {
       "id": 4,
-      "title": "costura",
+      "title": "Lorem ipsum color",
       "description": [
-        "Beautiful notebooks made entirely by hand"
+        "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Et doloremque sapiente suscipit. Aut, voluptatem. Eum modi dignissimos rerum. Commodi fugiat libero."
       ],
       "students": "942,260",
       "rating": "85",
@@ -46,9 +46,9 @@
     },
     {
       "id": 5,
-      "title": "molduraQuadros",
+      "title": "Lorem ipsum color",
       "description": [
-        "Beautiful notebooks made entirely by hand"
+        "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aut, voluptatem. Eum modi dignissimos rerum."
       ],
       "students": "942,260",
       "rating": "85",
@@ -57,20 +57,20 @@
     },
     {
       "id": 6,
-      "title": "colagem",
+      "title": "Lorem ipsum color",
       "description": [
-        "Beautiful notebooks made entirely by hand"
+        "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aut, voluptatem. Eum modi dignissimos rerum.Aut, voluptatem. Eum modi dignissimos rerum. Commodi fugiat libero"
       ],
       "students": "942,260",
       "rating": "85",
-      "price": "25",
+      "price": "35",
       "image": "http://localhost:4000/images/costura.jpg"
     },
     {
       "id": 7,
-      "title": "flores",
+      "title": "Lorem ipsum color",
       "description": [
-        "Beautiful notebooks made entirely by hand"
+        "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Et doloremque sapiente suscipit. Aut, voluptatem. Eum modi dignissimos rerum."
       ],
       "students": "942,260",
       "rating": "85",
@@ -79,59 +79,57 @@
     },
     {
       "id": 8,
-      "title": "flores",
+      "title": "Lorem ipsum color",
       "description": [
-        "Beautiful notebooks made entirely by hand"
+        "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Et doloremque sapiente suscipit. Aut, voluptatem. Eum modi dignissimos rerum."
       ],
       "students": "942,260",
       "rating": "85",
-      "price": "25",
+      "price": "15",
       "image": "http://localhost:4000/images/macrame.jpg"
     },
     {
       "id": 9,
-      "title": "flores",
+      "title": "Lorem ipsum color",
       "description": [
-        "Beautiful notebooks made entirely by hand"
+        "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Et doloremque sapiente suscipit. Aut, voluptatem. Eum modi dignissimos rerum."
       ],
       "students": "942,260",
       "rating": "85",
-      "price": "25",
+      "price": "35",
       "image": "http://localhost:4000/images/molduraQuadros.jpg"
     },
     {
       "id": 10,
-      "title": "flores",
+      "title": "Lorem ipsum color",
       "description": [
-        "Beautiful notebooks made entirely by hand"
+        "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Et doloremque sapiente suscipit. Aut, voluptatem. Eum modi dignissimos rerum."
       ],
       "students": "942,260",
       "rating": "85",
-      "price": "25",
+      "price": "30",
       "image": "http://localhost:4000/images/natal.jpg"
     }
   ],
   "register": [
     {
       "id": 1,
-      "userId": 1,
       "game": "LoL",
-      "playTime": 0,
-      "description": "I need to try out this one so that I can lose my life and my soul"
+      "description": "lore ipsum"
     },
     {
       "id": 2,
       "userId": 1,
       "game": "OW",
       "playTime": 100,
-      "description": "Finally I had a win in the end"
+      "description": "lore ipsum"
     },
     {
       "id": 3,
       "userId": 2,
       "game": "DnD",
       "playTime": 600,
-      "description": "I finished my turn in Civ"
+      "description": "lore ipsum"
     },
     {
       "email": "ffffff@hotmail.com",
@@ -327,6 +325,13 @@
       "email": "mariah@hotmail.com",
       "password": "123456",
       "id": 38
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "email": "",
+      "password": "",
+      "id": 39
     }
   ],
   "login": [
