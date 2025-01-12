@@ -9,7 +9,7 @@
       "students": "260,942",
       "rating": "4.5",
       "price": "20",
-      "image": "/images/pinturaOvo.jpg"
+      "image": "https://react-project-backend-tu2g.onrender.com/images/pinturaOvo.jpg"
     },
     {
       "id": 2,
@@ -20,7 +20,7 @@
       "students": "942,260",
       "rating": "4.8",
       "price": "15",
-      "image": "/images/encadernacao.jpg"
+      "image": "https://react-project-backend-tu2g.onrender.com/images/encadernacao.jpg"
     },
     {
       "id": 3,
