@@ -9,7 +9,7 @@
       "students": "260,942",
       "rating": "4.5",
       "price": "20",
-      "image": "http://localhost:4000/images/pinturaOvo.jpg"
+      "image": "/images/pinturaOvo.jpg"
     },
     {
       "id": 2,
@@ -20,7 +20,7 @@
       "students": "942,260",
       "rating": "4.8",
       "price": "15",
-      "image": "http://localhost:4000/images/encadernacao.jpg"
+      "image": "/images/encadernacao.jpg"
     },
     {
       "id": 3,
@@ -31,7 +31,7 @@
       "students": "942,260",
       "rating": "85",
       "price": "35",
-      "image": "http://localhost:4000/images/bisqui.jpg"
+      "image": "/images/bisqui.jpg"
     },
     {
       "id": 4,
@@ -42,7 +42,7 @@
       "students": "942,260",
       "rating": "85",
       "price": "25",
-      "image": "http://localhost:4000/images/bonecadepano.jpg"
+      "image": "/images/bonecadepano.jpg"
     },
     {
       "id": 5,
@@ -53,7 +53,7 @@
       "students": "942,260",
       "rating": "85",
       "price": "25",
-      "image": "http://localhost:4000/images/colagem.jpg"
+      "image": "/images/colagem.jpg"
     },
     {
       "id": 6,
@@ -64,7 +64,7 @@
       "students": "942,260",
       "rating": "85",
       "price": "35",
-      "image": "http://localhost:4000/images/costura.jpg"
+      "image": "/images/costura.jpg"
     },
     {
       "id": 7,
@@ -75,7 +75,7 @@
       "students": "942,260",
       "rating": "85",
       "price": "25",
-      "image": "http://localhost:4000/images/flores.jpg"
+      "image": "/images/flores.jpg"
     },
     {
       "id": 8,
@@ -86,7 +86,7 @@
       "students": "942,260",
       "rating": "85",
       "price": "15",
-      "image": "http://localhost:4000/images/macrame.jpg"
+      "image": "/images/macrame.jpg"
     },
     {
       "id": 9,
@@ -97,7 +97,7 @@
       "students": "942,260",
       "rating": "85",
       "price": "35",
-      "image": "http://localhost:4000/images/molduraQuadros.jpg"
+      "image": "/images/molduraQuadros.jpg"
     },
     {
       "id": 10,
@@ -108,7 +108,7 @@
       "students": "942,260",
       "rating": "85",
       "price": "30",
-      "image": "http://localhost:4000/images/natal.jpg"
+      "image": "/images/natal.jpg"
     }
   ],
   "register": [
